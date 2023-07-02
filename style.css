@@ -1,0 +1,48 @@
+.judul{
+    text-align: center;
+}
+.mengubah{
+    display: flex;
+    justify-content: center;
+}
+.latar{
+    background-color: black;
+}
+.kotak{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+}
+.kotak1{
+    width: 20px;
+    height: 20px;
+    background-color: green;
+}
+.kotak2{
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+}
+
+.hal2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.hapus{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.p1{
+    margin-top: -5px;
+    margin-bottom: 5px;
+}
+.p2{
+    margin-top: -5px;
+    margin-bottom: 5px;
+}
+.p3{
+    margin-top: -5px;
+    margin-bottom: 5px;
+}
